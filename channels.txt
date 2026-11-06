@@ -1,1 +1,10 @@
 Big B Kpop,https://antares.dribbcast.com/proxy/kpop?mp=/s
+KBS 1 라디오,http://serpent0.duckdns.org:8088/kbs1radio.pls
+MBC 표준 FM,http://serpent0.duckdns.org:8088/mbcsfm.pls
+SBS 파워 FM,http://serpent0.duckdns.org:8088/sbsfm.pls
+YTN 라디오,http://zstream.win/radio/ytn/radio
+KBS 클래식FM,http://serpent0.duckdns.org:8088/kbsfm.pls
+KBS 2 라디오,http://serpent0.duckdns.org:8088/kbs2radio.pls
+MBC FM4U,http://serpent0.duckdns.org:8088/mbcfm.pls
+SBS 러브 FM,http://serpent0.duckdns.org:8088/sbs2fm.pls
+KBS 쿨 FM,http://serpent0.duckdns.org:8088/kbs2fm.pls
