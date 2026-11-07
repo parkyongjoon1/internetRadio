@@ -1,11 +1,9 @@
-테스트,https://1radio.gscdn.kbs.co.kr/1radio_192_4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQyMjE4MDN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=hxl5Vqu05-ZXVWbIG5eHypfeU473fbkykBXoflcV7sd2UNBCDC6wHjYS8~pb97cvxsnCQGwO~USZRT8U3weg2peC0jdW6D0~bem~MnJgXeufRQBGoR78VxGw6cKhXjH80q3OlgOPPkluCtYrT3RnFpe1hbuNFmaJUvigQV5dIkLaakwz5KwzfPrthRF9EVp4dCCX~4G7G~VF~nHz-TxcTQtXEoaJrMT~mt8CLFTAq~CGWIz6hKroufZPZJirTevGnbzYQLBnr8I4zpnjK8Npt~Gv~pJXtdKmPQD~xMWv8ttPtS~CUhH21EJOK0W6evuOb3eCBPP8qu9a5qRcSgKmLw__
-KBS 1 라디오,http://serpent0.duckdns.org:8088/kbs1radio.pls
+KBS 1 라디오,https://1radio.gscdn.kbs.co.kr/1radio_192_4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQyMjE4MDN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=hxl5Vqu05-ZXVWbIG5eHypfeU473fbkykBXoflcV7sd2UNBCDC6wHjYS8~pb97cvxsnCQGwO~USZRT8U3weg2peC0jdW6D0~bem~MnJgXeufRQBGoR78VxGw6cKhXjH80q3OlgOPPkluCtYrT3RnFpe1hbuNFmaJUvigQV5dIkLaakwz5KwzfPrthRF9EVp4dCCX~4G7G~VF~nHz-TxcTQtXEoaJrMT~mt8CLFTAq~CGWIz6hKroufZPZJirTevGnbzYQLBnr8I4zpnjK8Npt~Gv~pJXtdKmPQD~xMWv8ttPtS~CUhH21EJOK0W6evuOb3eCBPP8qu9a5qRcSgKmLw__
 MBC 표준 FM,http://serpent0.duckdns.org:8088/mbcsfm.pls
 SBS 파워 FM,http://serpent0.duckdns.org:8088/sbsfm.pls
 YTN 라디오,http://zstream.win/radio/ytn/radio
-KBS 클래식FM,http://serpent0.duckdns.org:8088/kbsfm.pls
-KBS 2 라디오,http://serpent0.duckdns.org:8088/kbs2radio.pls
+KBS 1 FM,https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xZm0uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQyMjIwNzJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=TeB3TgNfleGORL~JYouILEbaWWkVDtI6OsZmbP4-sd~Lpn0V6glfe1sT0Vq3RHvNvbOlTjAmUEgIVcfJE1B7E0IZ6jYM1AfLoqVPN5-eJ8S-u2qUYuEkDll6zS0TBhoz9FcKFFKkD30E1QejFKSF9WOcZf7Pbmb~u7~dCnzb5isg1LthZ4T-~rOw3l-~fe9lBw~tlLM9j63iUBhTlS4ByfcBoON4ebXeP-PnagSUITU75952Ibxz-5~vqRu1ya3Mpn-a~WXOw2J9KeF-YW4paCFG1b5Hk3-Pe3UdOvpxaPvZgd09uko8-iF0C5BzyGLFG3HwXvb5gjk-1ZtqQDMgJw__
 MBC FM4U,http://serpent0.duckdns.org:8088/mbcfm.pls
 SBS 러브 FM,http://serpent0.duckdns.org:8088/sbs2fm.pls
-KBS 쿨 FM,http://serpent0.duckdns.org:8088/kbs2fm.pls
-Big B Kpop,https://antares.dribbcast.com/proxy/kpop?mp=/s
+KBS 2 라디오,https://2radio-ad.gscdn.kbs.co.kr/2radio_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQyMjIyMTl9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=lkaUBB96ccMg70Yi6mQw~zUKtoRH3EZjTr~hWSGwpjddk1ETdgyl1oOAS~AXeU4WAFRrKHSWwDIFQ--hSHskcFoP3JGsaz9U-C3iX8PcOu3VTAQiDVuxOuNmLr67S74Z2~7DluVJ9mTvzL44UZ6PLUM7W6OsRpnIZG~VO1cmmABuVYHDwxIwOtMWu-56N~6OCOsu~Zwwx5EWK1kEx3QbiU6llxVa2-KsZHn1Kq~eH86HNybLCUyRV3pcsYyqrRbwVzSY5Xb3kmm-eoORAbpcLQt51cCMAiNbBLLiY44f7Cy59LbOOwywEy-8-d5XzMD47DHf~IdILwdz5Fhfp~CRCw__
+아르떼 라디오,http://radio.arte.co.kr:8000/radio.mp3
