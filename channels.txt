@@ -1,3 +1,4 @@
+테스트,https://1radio.gscdn.kbs.co.kr/1radio_192_4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQyMjE4MDN9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=hxl5Vqu05-ZXVWbIG5eHypfeU473fbkykBXoflcV7sd2UNBCDC6wHjYS8~pb97cvxsnCQGwO~USZRT8U3weg2peC0jdW6D0~bem~MnJgXeufRQBGoR78VxGw6cKhXjH80q3OlgOPPkluCtYrT3RnFpe1hbuNFmaJUvigQV5dIkLaakwz5KwzfPrthRF9EVp4dCCX~4G7G~VF~nHz-TxcTQtXEoaJrMT~mt8CLFTAq~CGWIz6hKroufZPZJirTevGnbzYQLBnr8I4zpnjK8Npt~Gv~pJXtdKmPQD~xMWv8ttPtS~CUhH21EJOK0W6evuOb3eCBPP8qu9a5qRcSgKmLw__
 KBS 1 라디오,http://serpent0.duckdns.org:8088/kbs1radio.pls
 MBC 표준 FM,http://serpent0.duckdns.org:8088/mbcsfm.pls
 SBS 파워 FM,http://serpent0.duckdns.org:8088/sbsfm.pls
