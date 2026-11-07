@@ -1,1 +1,10 @@
-KBS 1라디오,https://1radio-bora.gscdn.kbs.co.kr/1radio-bora-01/1radio-bora-01_hd.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8tYm9yYS5nc2Nkbi5rYnMuY28ua3IvMXJhZGlvLWJvcmEtMDEvKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc5NDE0NzUzM319fV19&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=ipBx~BsnBZuCqmUVc-sgrW3D7ldXK47TDk0UU5SKh7DWR~8zu94wO2L7nMkAa9UKkFfScMty~yb48ZX6LNinIwG7oKOKMf0pKviWzr1wuL3nr29P~x9kFr2pu84w9vD7b5s83Pwlq7VdJLwivKBWLtB-KekhWz9tLRqwwCv8NkUuUawlBw7KWA-gCsmfm~WPv5O5-l6ViQ8woLmD7CHh39N3yUFi7NLlfoyjXdLNhxxyjbBi177z5qK6wTAvuMXSBNDS0C35emLWj2jh4KVLLFRIVI175W1E9tUO9u5sXgd~xgxIHu5yo9YtVQZGjC~Tv2ANMdQ0A4jwKIBDh7FTMA__
+KBS 1 라디오,http://serpent0.duckdns.org:8088/kbs1radio.pls
+MBC 표준 FM,http://serpent0.duckdns.org:8088/mbcsfm.pls
+SBS 파워 FM,http://serpent0.duckdns.org:8088/sbsfm.pls
+YTN 라디오,http://zstream.win/radio/ytn/radio
+KBS 클래식FM,http://serpent0.duckdns.org:8088/kbsfm.pls
+KBS 2 라디오,http://serpent0.duckdns.org:8088/kbs2radio.pls
+MBC FM4U,http://serpent0.duckdns.org:8088/mbcfm.pls
+SBS 러브 FM,http://serpent0.duckdns.org:8088/sbs2fm.pls
+KBS 쿨 FM,http://serpent0.duckdns.org:8088/kbs2fm.pls
+Big B Kpop,https://antares.dribbcast.com/proxy/kpop?mp=/s
