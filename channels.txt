@@ -1,4 +1,5 @@
 KBS 1 라디오,https://radio.bsod.kr/stream?stn=kbs&ch=1radio
+KBS1라디오,https://1radio.gscdn.kbs.co.kr/1radio_192_4.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8xcmFkaW8uZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQzNTQ4NDF9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=GYF39JgOAEAJNWUtfv8oFu27ipix~ra0jp4V6nuIlA6diKqQYiTFnNIaTM0hdx6R3OMdTDN-uh7aL6oJazqssEnqani-x9gZZTyfOt5~N28k8FfmN9O55CoVFYe30YsiOYn-32MIKb2qE-SVypIOcpxH8O7TjwG0jfmbm0CDE9eaH6e58ciE6uGAxuICk2AgOpWGror4z3mpX4fmTbowx~Vcoe1m8lWqMsOwFtu1SeJftpltO9SRGphxYS5Nkti1rFIiFMviXLJn7Q2QSeVCvSzuKQz-65J8pp2TASrRJGFPKAo-OPV439HpskpAkxkKjy7WcaZarX2nIFXIKkLFIg__
 MBC 표준 FM,http://serpent0.duckdns.org:8088/mbcsfm.pls
 SBS 파워 FM,http://serpent0.duckdns.org:8088/sbsfm.pls
 YTN 라디오,http://zstream.win/radio/ytn/radio
