@@ -6,4 +6,5 @@ KBS 클래식 FM,https://1fm.gscdn.kbs.co.kr/1fm_192_2.m3u8?Policy=eyJTdGF0ZW1lb
 MBC FM4U,http://serpent0.duckdns.org:8088/mbcfm.pls
 SBS 러브 FM,http://serpent0.duckdns.org:8088/sbs2fm.pls
 KBS 해피 FM,https://2radio-ad.gscdn.kbs.co.kr/2radio_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTQzOTU3ODJ9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=JAyM75ninx9yers6KRKentR5qxw1ETjZnQQJZzb91WMboSPEXydBNzRwuzanbtUpeH1hKUJv4lJFh4HKC9y0oIcLzBF1J4U1ibhDkKCNlGk8A-yvghbTojrR0I07WhjQTKVnRrGZ~NF2-pNCp1~7AhNBAX1idLEX-txpNYwj0j9xnOtE9G-3r0cb7cRysD529~1kUVjs7OBqUjCKRwF3vp0eo5Beb4MsidQesrP5KACmC2XPENI1~m4sRoKzHzhQrqiyb0oUEKioGNwfFteGeKU1sUz4Nj3iaGI0b8PlHNYVivunrTbiQBsOICudnTwAM74tEY3yUYWCZ1TTMciRtQ__
+국악방송,https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
 아르떼 라디오,http://radio.arte.co.kr:8000/radio.mp3
