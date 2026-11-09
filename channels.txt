@@ -1,5 +1,4 @@
 KBS 1 라디오,https://radio.bsod.kr/stream?stn=kbs&ch=1radio
-테스트,테스트
 MBC 표준 FM,http://serpent0.duckdns.org:8088/mbcsfm.pls
 SBS 파워 FM,http://serpent0.duckdns.org:8088/sbsfm.pls
 YTN 라디오,http://zstream.win/radio/ytn/radio
