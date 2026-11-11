@@ -9,6 +9,7 @@ channels_config = {
     "KBS 해피 FM": {"type": "kbs", "code": "22"},
     "MBC 표준 FM": {"type": "mbc", "code": "sfm"},
     "MBC FM4U": {"type": "mbc", "code": "mfm"},
+    "MBC 올댓뮤직": {"type": "mbc", "code": "chm"},
     "SBS 파워 FM": {"type": "sbs", "path": "powerpc/powerfm"},
     "SBS 러브 FM": {"type": "sbs", "path": "lovepc/lovefm"}
 }
