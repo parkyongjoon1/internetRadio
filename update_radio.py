@@ -2,15 +2,15 @@ import urllib.request
 import json
 import os
 
-# 각 방송사별 채널 설정 (KBS: JSON API, MBC/SBS: Plain Text API)
+# 띄어쓰기가 반영된 방송사별 채널 설정
 channels_config = {
     "KBS 1 라디오": {"type": "kbs", "code": "21"},
     "KBS 클래식 FM": {"type": "kbs", "code": "24"},
     "KBS 해피 FM": {"type": "kbs", "code": "22"},
-    "MBC 표준FM": {"type": "mbc", "code": "sfm"},
+    "MBC 표준 FM": {"type": "mbc", "code": "sfm"},
     "MBC FM4U": {"type": "mbc", "code": "mfm"},
-    "SBS 파워FM": {"type": "sbs", "path": "powerpc/powerfm"},
-    "SBS 러브FM": {"type": "sbs", "path": "lovepc/lovefm"}
+    "SBS 파워 FM": {"type": "sbs", "path": "powerpc/powerfm"},
+    "SBS 러브 FM": {"type": "sbs", "path": "lovepc/lovefm"}
 }
 
 # 1. 각 채널별로 최신 스트리밍 주소 가져오기
@@ -58,7 +58,7 @@ if os.path.exists(channels_file):
     for line in lines:
         matched = False
         for name, new_url in fetched_channels.items():
-            # 공백 유무와 관계없이 기존 라디오 채널명을 정확히 찾아 매칭
+            # 공백 유무와 관계없이 기존 라디오 채널명을 정확히 찾아 매칭하고, 갱신 시에는 지정된 표준 띄어쓰기로 저장
             if name.replace(" ", "") in line.replace(" ", ""):
                 updated_lines.append(f"{name},{new_url}\n")
                 existing_channels.add(name)
@@ -76,7 +76,7 @@ for name, new_url in fetched_channels.items():
 try:
     with open(channels_file, 'w', encoding='utf-8') as f:
         f.writelines(updated_lines)
-    print("channels.txt updated successfully with all KBS, MBC, SBS channels!")
+    print("channels.txt updated successfully with corrected spacing!")
 except Exception as e:
     print(f"Error writing channels.txt: {e}")
     exit(1)
