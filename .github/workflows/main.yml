@@ -2,8 +2,8 @@ name: Update Radio URL Daily
 
 on:
   schedule:
-    - cron: '0 15 * * *' # 한국 시간(KST) 오전 0시 (전날 UTC 15:00)
-    - cron: '0 3 * * *'  # 한국 시간(KST) 오후 12시 (당일 UTC 03:00)
+    - cron: '9 15 * * *' # 한국 시간(KST) 오전 0시 (전날 UTC 15:00)
+    - cron: '9 3 * * *'  # 한국 시간(KST) 오후 12시 (당일 UTC 03:00)
   workflow_dispatch:
 
 # 깃허브 저장소 쓰기 권한 명시
