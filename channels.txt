@@ -8,5 +8,5 @@ SBS 러브 FM,https://radiolive.sbs.co.kr/lovepc/lovefm.stream/playlist.m3u8?tok
 KBS 해피 FM,https://2radio-ad.gscdn.kbs.co.kr/2radio_ad_192_1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly8ycmFkaW8tYWQuZ3NjZG4ua2JzLmNvLmtyLyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE3OTUzNDY3ODh9fX1dfQ__&Key-Pair-Id=APKAICDSGT3Y7IXGJ3TA&Signature=Ya2NIhsxsgUUv4IHaeWcW4RDAUdeHwe4Wp-ABqhyM~9P-EDpcSBSppJqF3Mo6mMTk~ux1jmIl9g2QEb1AgExzJeOzWRTJK-m7a8PEeEKKLOolZcoNFSos9zH8MX~yEUh07j5UNWQV4hJ4v-mVm-lMlW8Z0VSFcsAyOILW4JY0A-GBJnO49vdEcTswrYrX0IWWlHCMB3KE9NB3KFEvBvWEgg4lfW0otcSSfPWBjp64Yv6iU2bYIVtWkNxEKQmbsaoLRo6yHeJ5NUlAkEZx-wRg~5YSKj6haebZEK3M~OrJx0FuusIBAMBS7foE1FVtLyFUXODmEZRXMYYd~fayvFbdQ__
 MBC 올댓뮤직,https://minicw.imbc.com/dchm/_definst_/chm.stream/playlist.m3u8?_lsu_sa_=6E31E11663973AE47640F5533F51C64605AA37E5BD0842A63C109EaE56CD391612a143B83442B14E207131B1CAb89102722B4B0756C0973A5B438E8E16924EAE23A3DF7902EC9511BA760D01BE51A9FAD33088F3E0FB47DEB93B234F5DEB8CDDAF2B076D00940D22B54EA32325C2C759
 국악방송,https://mgugaklive.nowcdn.co.kr/gugakradio/gugakradio.stream/playlist.m3u8
-TBN 부산교통,http://radio2.tbn.or.kr:1935/busan/myStream/playlist.m3u8
+TBN 부산교통,https://www.tbn.it.kr/busan/myStream/playlist.m3u8
 TBS FM,https://cdnfm.tbs.seoul.kr/tbs/_definst_/tbs_fm_web_360.smil/playlist.m3u8
